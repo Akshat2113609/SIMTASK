@@ -1,6 +1,6 @@
 # quizapp
 
-A new Flutter project.
+A new Flutter project to test my skills , this app takes a quiz and shows the score and result
 
 ## Getting Started
 
